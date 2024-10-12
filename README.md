@@ -1,3 +1,4 @@
+[![An image of @priyashanypc's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/priyashanypc)](https://holopin.io/@priyashanypc)
 [![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/be832922391491.58c25558f0fe7.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Shan_C_Pathirana</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
