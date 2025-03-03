@@ -1,3 +1,4 @@
+[![An image of @priyashanypc's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/priyashanypc)](https://holopin.io/@priyashanypc)
 <h1 align="center">Hi 👋, I'm Shan C Pathirana</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 
