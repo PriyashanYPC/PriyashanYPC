@@ -12,7 +12,7 @@
 
 - 🤝 I’m looking for help with **Mastering Spring Boot and backend development best practices**
 
-- 💬 Ask me about **Java,HTML, CSS, JAVA SCRIPT C, React, and anything about web development**
+- 💬 Ask me about **Java, HTML, CSS, JAVA SCRIPT, C, React, and anything about web development**
 
 - 📫 How to reach me **chamikarapriyashan@gmail.com**
 
